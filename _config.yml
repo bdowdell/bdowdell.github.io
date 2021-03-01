@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+# site wide configuration
+title: Ben Dowdell
+locale: en_US
+
+# bio & social
+name: Ben Dowdell
+email: ben.dowdell87@gmail.com
+twitter: bendowdell87
+linkedin: ben-dowdell
+github: bdowdell
+
+
+
