@@ -6,10 +6,19 @@ locale: en_US
 
 # bio & social
 name: Ben Dowdell
-email: ben.dowdell87@gmail.com
-twitter_username: bendowdell87
-linkedin_username: ben-dowdell
-github_username: bdowdell
+author: Ben Dowdell
+social-network-links:
+  email: ben.dowdell87@gmail.com
+  twitter: bendowdell87
+  linkedin: ben-dowdell
+  github: bdowdell
+
+share-links-active:
+  twitter: true
+  linkedin: true
+  github: true
+
+url-pretty: "bendowdell.com"
 
 
 
