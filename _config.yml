@@ -2,11 +2,15 @@ theme: jekyll-theme-minimal
 
 # site wide configuration
 title: Ben Dowdell
+author: Ben Dowdell
 locale: en_US
 
+navbar-links:
+  About: "about"
+  Portfolio: "portfolio"
+  Resume: "resume"
+
 # bio & social
-name: Ben Dowdell
-author: Ben Dowdell
 social-network-links:
   email: ben.dowdell87@gmail.com
   twitter: bendowdell87
