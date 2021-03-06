@@ -10,7 +10,8 @@ permalink: /resume/
 
 <div style="text-align: right"><h4>contact & media</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px;"/>
-- []({{site.url}}/assets/img/icons8-iphone-30.png) +1 (281) 222-0795
+- ![iphone]({{site.url}}/assets/img/icons8-iphone-30.png) +1 (281) 222-0795
+
 [ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)
 Houston, TX
 [www.bendowdell.com](https://www.bendowdell.com)
