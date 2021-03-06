@@ -4,7 +4,7 @@ title: resume
 permalink: /resume/
 ---
 
-<div style="text-align: center"><h1> BEN DOWDELL </h1></div>
+<div style="text-align: center"><h1><strong>BEN DOWDELL</strong> </h1></div>
 
 <div style="text-align: center"><h3> data scientist, software engineer </h3></div>
 
@@ -18,11 +18,11 @@ Houston, TX
 [github.com/bdowdell](https://github.com/bdowdell)
 
 <div style="text-align: right"><h4> personal statement</h4></div>
-<hr style="margin-top: -20px;"/>
+<hr style="margin-top: -20px; margin-bottom: 10px;"/>
 My mission is to provide thoughtful data analytics, insights, and predictive models which when combined with trained intuition and expert knowledge results in both data-driven and data-informed decision making, adding business value. I build useful models and software which enable people to achieve these outcomes easier and more efficiently.
 
 <div style="text-align: right"><h4>skills & tools</h4></div>
-<hr style="margin-top: -20px;"/>
+<hr style="margin-top: -20px; margin-bottom: 10px;"/>
 #### Skilled
 
 - Programming
@@ -57,7 +57,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Ruby, Bundler, Jekyll
 
 <div style="text-align: right"><h4>projects</h4></div>
-<hr style="margin-top: -20px;"/>
+<hr style="margin-top: -20px; margin-bottom: 10px;"/>
 #### Predicting missing borehole sonic well logs (2020, 2021)
 
 - Machine learning competition hosted by the Society of Petrophysicists and Well Log Analysts (SPWLA) to foster novel workflows to predict crucial missing sonic borehole well logs using commonly available well log data
@@ -73,7 +73,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Deployed at: [https://pyseistuned.com](https://pyseistuned.com)
 
 <div style="text-align: right"><h4>work experience</h4></div>
-<hr style="margin-top: -20px;"/>
+<hr style="margin-top: -20px; margi-bottom: 10px;"/>
 #### Chevron Corporation, Geophysicist, November 2020 – present
 
 - Leading multiple competitive business unit growth opportunities into a new organization
@@ -95,7 +95,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Mentoring & training interns, new hires, and early career staff
 
 <div style="text-align: right"><h4>education</h4></div>
-<hr style="margin-top: -20px;"/>
+<hr style="margin-top: -20px; margin-bottom: 10px"/>
 #### Master of Science, Geophysics
 
 University of Oklahoma, Norman, OK, 2013
@@ -105,7 +105,7 @@ University of Oklahoma, Norman, OK, 2013
 Southern Methodist University, Dallas, TX, 2010
 
 <div style="text-align: right"><h4>awards/certifications/activities</h4></div>
-<hr style="margin-top: -20px;"/>
+<hr style="margin-top: -20px; margin-bottom: 10px;"/>
 - Best Presentation, Noble Energy Technology Conference, Noble Energy Inc., 2015
 - Geoscience campus recruiter, Noble Energy Inc., 2014 – 2019
 - Reviewer, Geophysics, Interpretation, & SEG Annual Conference abstracts, 2014 – present
