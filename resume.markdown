@@ -10,12 +10,12 @@ permalink: /resume/
 
 <div style="text-align: right"><h4>contact & media</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px;"/>
-![iphone]({{site.url}}/assets/img/icons8-iphone-30.png) +1 (281) 222-0795  
-![email]({{site.url}}/assets/img/icons8-gmail-30.png) [ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)  
-![location]({{site.url}}/assets/img/icons8-address-30.png) Houston, TX  
-![www]({{site.url}}/assets/img/icons8-website-30.png) [www.bendowdell.com](https://www.bendowdell.com)  
-![linkedin]({{site.url}}/assets/img/icons8-linkedin-30.png) [linkedin.com/in/ben-dowdell](https://linkedin.com/in/ben-dowdell)  
-![github]({{site.url}}/assets/img/icons8-github-30.png) [github.com/bdowdell](https://github.com/bdowdell)
+![iphone]({{site.url}}/assets/img/icons8-iphone-30.png =15x) +1 (281) 222-0795  
+![email]({{site.url}}/assets/img/icons8-gmail-30.png =15x) [ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)  
+![location]({{site.url}}/assets/img/icons8-address-30.png =15x) Houston, TX  
+![www]({{site.url}}/assets/img/icons8-website-30.png =15x) [www.bendowdell.com](https://www.bendowdell.com)  
+![linkedin]({{site.url}}/assets/img/icons8-linkedin-30.png =15x) [linkedin.com/in/ben-dowdell](https://linkedin.com/in/ben-dowdell)  
+![github]({{site.url}}/assets/img/icons8-github-30.png =15x) [github.com/bdowdell](https://github.com/bdowdell)
 <div style="text-align: right"><h4> personal statement</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px;"/>
 My mission is to provide thoughtful data analytics, insights, and predictive models which when combined with trained intuition and expert knowledge results in both data-driven and data-informed decision making, adding business value. I build useful models and software which enable people to achieve these outcomes easier and more efficiently.
