@@ -10,12 +10,11 @@ permalink: /resume/
 
 <div style="text-align: right"><h4>contact & media</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px;"/>
-- ![iphone]({{site.url}}/assets/img/icons8-iphone-30.png) +1 (281) 222-0795
-
-[ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)
-Houston, TX
-[www.bendowdell.com](https://www.bendowdell.com)
-[linkedin.com/in/ben-dowdell](https://linkedin.com/in/ben-dowdell)
+![iphone]({{site.url}}/assets/img/icons8-iphone-30.png) +1 (281) 222-0795  
+[ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)  
+Houston, TX  
+[www.bendowdell.com](https://www.bendowdell.com)  
+[linkedin.com/in/ben-dowdell](https://linkedin.com/in/ben-dowdell)  
 [github.com/bdowdell](https://github.com/bdowdell)
 
 <div style="text-align: right"><h4> personal statement</h4></div>
