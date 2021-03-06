@@ -23,7 +23,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 
 <div style="text-align: right"><h4>skills & tools</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px;"/>
-#### Skilled
+##### **Skilled**
 - Programming
 - Python
 - Anaconda, Conda, Pipenv
@@ -44,7 +44,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Research & Writing
 - Generating business value
 
-#### Basic
+##### **Basic**
 - TensorFlow & PyTorch
 - C++
 - Object Oriented Programming
@@ -57,13 +57,13 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 
 <div style="text-align: right"><h4>projects</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px;"/>
-#### Predicting missing borehole sonic well logs (2020, 2021)
+##### **Predicting missing borehole sonic well logs (2020, 2021)**
 - Machine learning competition hosted by the Society of Petrophysicists and Well Log Analysts (SPWLA) to foster novel workflows to predict crucial missing sonic borehole well logs using commonly available well log data
 - [https://github.com/bdowdell/Machine-Learning-Competition-2020](https://github.com/bdowdell/Machine-Learning-Competition-2020)
 - Technology: Python, Pandas, Numpy, Scikit-learn, XGBoost, Matplotlib, JupyterLab, VSCode
 - 2021: Flask web app & API to serve model: [https://sonicpredict.com](https://sonicpredict.com)
 
-#### PySeisTuned seismic forward modeling Flask web app (2020)
+##### **PySeisTuned seismic forward modeling Flask web app (2020)**
 - Seismic tuning wedge forward model using bokeh for interactive plotting
 - Developed to make previous PyQT5-based GUI application more accessible as a web app
 - Technology: Python, Flask, Bokeh, HTML, CSS, Bootstrap, JavaScript, PyCharm
@@ -71,13 +71,13 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 
 <div style="text-align: right"><h4>work experience</h4></div>
 <hr style="margin-top: -15px; margi-bottom: 10px;"/>
-#### Chevron Corporation, Geophysicist, November 2020 – present
+##### **Chevron Corporation**, Geophysicist, November 2020 – present
 - Leading multiple competitive business unit growth opportunities into a new organization
 - Learning and adapting to new processes and procedures on the job in a fast-paced environment
 - Networking and building relationships with new colleagues in a virtual environment
 - Facilitating transfer of data between new teams across new digital infrastructure
 
-#### Noble Energy, Inc., Geophysicist, March 2013 – November 2020
+##### **Noble Energy, Inc.**, Geophysicist, March 2013 – November 2020
 - Collect, clean, analyze, interpret, and document large quantities of structured and unstructured datasets
 - Integrate complex data from different sources, vintages, and scales for qualitative & quantitative interpretation
 - Support portfolio ranking & management by applying risk analysis and building probabilistic Monte Carlo models for exploration phase pre-drill subsurface in-place hydrocarbon resource estimates
@@ -91,10 +91,10 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 
 <div style="text-align: right"><h4>education</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px"/>
-#### Master of Science, Geophysics
+##### **Master of Science, Geophysics**
 University of Oklahoma, Norman, OK, 2013
 
-#### Bachelor of Science, Geophysics, Minors in History & Business
+##### **Bachelor of Science, Geophysics**, Minors in History & Business
 Southern Methodist University, Dallas, TX, 2010
 
 <div style="text-align: right"><h4>awards/certifications/activities</h4></div>
