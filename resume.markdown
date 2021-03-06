@@ -1,27 +1,31 @@
 ---
 layout: page
-title: resume
 permalink: /resume/
 ---
 
 <div style="text-align: center"><h1> BEN DOWDELL </h1></div>
 
-### data scientist, software engineer
+<div style="text-align: center"><h3> data scientist, software engineer </h3></div>
 
-### contact & media
+<div style="text-align: right"><h4>contact & media</h4></div>
 
 +1 (281) 222-0795
+
 [ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)
+
 Houston, TX
+
 [www.bendowdell.com](https://www.bendowdell.com)
+
 [linkedin.com/in/ben-dowdell](https://linkedin.com/in/ben-dowdell)
+
 [github.com/bdowdell](https://github.com/bdowdell)
 
-### personal statement
+<div style="text-align: right"><h4> personal statement</h4></div>
 
 My mission is to provide thoughtful data analytics, insights, and predictive models which when combined with trained intuition and expert knowledge results in both data-driven and data-informed decision making, adding business value. I build useful models and software which enable people to achieve these outcomes easier and more efficiently.
 
-### skills & tools
+<div style="text-align: right"><h4>skills & tools</h4></div>
 
 #### Skilled
 
@@ -56,7 +60,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Continuous Integration
 - Ruby, Bundler, Jekyll
 
-### projects
+<div style="text-align: right"><h4>projects</h4></div>
 
 #### Predicting missing borehole sonic well logs (2020, 2021)
 
@@ -72,7 +76,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Technology: Python, Flask, Bokeh, HTML, CSS, Bootstrap, JavaScript, PyCharm
 - Deployed at: [https://pyseistuned.com](https://pyseistuned.com)
 
-### work experience
+<div style="text-align: right"><h4>work experience</h4></div>
 
 #### Chevron Corporation, Geophysicist, November 2020 – present
 
@@ -94,7 +98,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Fostering intellectual curiosity amongst teammates by asking questions and challenging the status quo
 - Mentoring & training interns, new hires, and early career staff
 
-### education
+<div style="text-align: right"><h4>education</h4></div>
 
 #### Master of Science, Geophysics
 
@@ -104,7 +108,7 @@ University of Oklahoma, Norman, OK, 2013
 
 Southern Methodist University, Dallas, TX, 2010
 
-### awards/certifications/activities
+<div style="text-align: right"><h4>awards/certifications/activities</h4></div>
 
 - Best Presentation, Noble Energy Technology Conference, Noble Energy Inc., 2015
 - Geoscience campus recruiter, Noble Energy Inc., 2014 – 2019
