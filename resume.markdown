@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resume
+title: resume.
 permalink: /resume/
 ---
 
@@ -53,6 +53,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - JavaScript
 - Continuous Integration
 - Ruby, Bundler, Jekyll
+- Markdown
 
 <div style="text-align: right"><h4>projects</h4></div>
 <hr style="margin-top: -15px; margin-bottom: 10px;"/>
