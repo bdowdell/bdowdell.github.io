@@ -9,7 +9,7 @@ permalink: /resume/
 <div style="text-align: center"><h3> data scientist, software engineer </h3></div>
 
 <div style="text-align: right"><h4>contact & media</h4></div>
-<hr />
+<hr style="margin-top: 2px;"/>
 +1 (281) 222-0795
 [ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)
 Houston, TX
