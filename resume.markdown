@@ -94,7 +94,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 ##### **Master of Science, Geophysics**
 University of Oklahoma, Norman, OK, 2013
 
-##### **Bachelor of Science, Geophysics**, Minors in History & Business
+##### **Bachelor of Science, Geophysics**, *Minors in History & Business*
 Southern Methodist University, Dallas, TX, 2010
 
 <div style="text-align: right"><h4>awards/certifications/activities</h4></div>
