@@ -4,7 +4,7 @@ title: resume
 permalink: /resume/
 ---
 
-# BEN DOWDELL
+<div style="text-align: center"># BEN DOWDELL</div>
 
 ### data scientist, software engineer
 
