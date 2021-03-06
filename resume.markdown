@@ -110,4 +110,4 @@ Southern Methodist University, Dallas, TX, 2010
 - Co-chair, Noble Energy Technology Conference, Noble Energy Inc., 2020
 - Statistical Learning, StanfordOnline STATSX0001, edX.org, in progress (2021)
 <hr />
-<small>icons courtesy of <a href="icons8.com">icons8.com</a></small>
+<small>icons courtesy of <a href="https://icons8.com">icons8.com</a></small>
