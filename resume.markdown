@@ -43,6 +43,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Open Source Software
 - Research & Writing
 - Generating business value
+
 #### Basic
 - TensorFlow & PyTorch
 - C++
@@ -107,5 +108,5 @@ Southern Methodist University, Dallas, TX, 2010
 - Volunteer, TX Premier Soccer Club video & analytics (2020 – present)
 - Co-chair, Noble Energy Technology Conference, Noble Energy Inc., 2020
 - Statistical Learning, StanfordOnline STATSX0001, edX.org, in progress (2021)
-
+<hr />
 <small>icons courtesy of <a href="icons8.com">icons8.com</a></small>
