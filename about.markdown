@@ -4,7 +4,7 @@ title: about.
 permalink: /about/
 ---
 
-<img src="{{site.url}}/assets/img/bendowdell-profile-pic_yolo_out_cpp.jpg" width="200">
+<img src="assets/img/bendowdell-profile-pic_yolo_out_cpp.jpg" width="200">
 
 # Hi there! :wave:
 
