@@ -33,4 +33,15 @@ permalink: /portfolio/
 			<button>Readmore</button>
 		</div>
 	</div>
+	<div class="card">
+		<div class="bg-img">
+		</div>
+		<div class="content">
+			<h4>Upcoming</h4>
+			<p>
+				Lorem ipsum dolor
+			</p>
+			<button>Readmore</button>
+		</div>
+	</div>
 </div>
