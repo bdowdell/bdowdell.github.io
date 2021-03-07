@@ -4,23 +4,23 @@ title: resume.
 permalink: /resume/
 ---
 
-<div style="text-align: center"><h1><strong>BEN DOWDELL</strong> </h1></div>
+<div class="resume-header"><h1><strong>BEN DOWDELL</strong> </h1></div>
 
-<div style="text-align: center"><h3> data scientist, software engineer </h3></div>
+<div class="resume-header"><h3> data scientist, software engineer </h3></div>
 
-<div style="text-align: right"><h4>contact & media</h4></div>
-<hr style="margin-top: -15px; margin-bottom: 10px;"/>
+<div class="resume-section-header"><h4>contact & media</h4></div>
+<hr class="resume-section-hr"/>
 <img src="{{site.url}}/assets/img/icons8-iphone-30.png" width="25"/> +1 (281) 222-0795  
 <img src="{{site.url}}/assets/img/icons8-gmail-30.png" width="25"/> [ben.dowdell87@gmail.com](mailto:ben.dowdell87@gmail.com)  
 <img src="{{site.url}}/assets/img/icons8-address-30.png" width="25"/> Houston, TX  
 <img src="{{site.url}}/assets/img/icons8-website-30.png" width="25"/> [www.bendowdell.com](https://www.bendowdell.com)  
 <img src="{{site.url}}/assets/img/icons8-linkedin-30.png" width="25"/> [linkedin.com/in/ben-dowdell](https://linkedin.com/in/ben-dowdell)  
 <img src="{{site.url}}/assets/img/icons8-github-30.png" width="25"/> [github.com/bdowdell](https://github.com/bdowdell)
-<div style="text-align: right"><h4> personal statement</h4></div>
-<hr style="margin-top: -15px; margin-bottom: 10px;"/>
+<div class="resume-section-header"><h4> personal statement</h4></div>
+<hr class="resume-section-hr"/>
 My mission is to provide thoughtful data analytics, insights, and predictive models which when combined with trained intuition and expert knowledge results in both data-driven and data-informed decision making, adding business value. I build useful models and software which enable people to achieve these outcomes easier and more efficiently.
-<div style="text-align: right"><h4>skills & tools</h4></div>
-<hr style="margin-top: -15px; margin-bottom: 10px;"/>
+<div class="resume-section-header"><h4>skills & tools</h4></div>
+<hr class="resume-section-hr"/>
 ##### **Skilled**
 - Programming
 - Python
@@ -52,8 +52,8 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Continuous Integration
 - Ruby, Bundler, Jekyll
 - Markdown
-<div style="text-align: right"><h4>projects</h4></div>
-<hr style="margin-top: -15px; margin-bottom: 10px;"/>
+<div class="resume-section-header"><h4>projects</h4></div>
+<hr class="resume-section-hr"/>
 ##### **Predicting missing borehole sonic well logs (2020, 2021)**
 - Machine learning competition hosted by the Society of Petrophysicists and Well Log Analysts (SPWLA) to foster novel workflows to predict crucial missing sonic borehole well logs using commonly available well log data
 - [https://github.com/bdowdell/Machine-Learning-Competition-2020](https://github.com/bdowdell/Machine-Learning-Competition-2020)
@@ -65,8 +65,8 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Developed to make previous PyQT5-based GUI application more accessible as a web app
 - Technology: Python, Flask, Bokeh, HTML, CSS, Bootstrap, JavaScript, PyCharm
 - Deployed at: [https://pyseistuned.com](https://pyseistuned.com)
-<div style="text-align: right"><h4>work experience</h4></div>
-<hr style="margin-top: -15px; margin-bottom: 10px;"/>
+<div class="resume-section-header"><h4>work experience</h4></div>
+<hr class="resume-section-hr"/>
 ##### **Chevron Corporation**, Geophysicist, November 2020 – present
 - Leading multiple competitive business unit growth opportunities into a new organization
 - Learning and adapting to new processes and procedures on the job in a fast-paced environment
@@ -84,14 +84,14 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - Setting project schedules and practicing effective time management and project management
 - Fostering intellectual curiosity amongst teammates by asking questions and challenging the status quo
 - Mentoring & training interns, new hires, and early career staff
-<div style="text-align: right"><h4>education</h4></div>
-<hr style="margin-top: -15px; margin-bottom: 10px"/>
+<div class="resume-section-header"><h4>education</h4></div>
+<hr class="resume-section-hr"/>
 ##### **Master of Science, Geophysics**
 University of Oklahoma, Norman, OK, 2013  
 ##### **Bachelor of Science, Geophysics**, *Minors in History & Business*
 Southern Methodist University, Dallas, TX, 2010
-<div style="text-align: right"><h4>awards/certifications/activities</h4></div>
-<hr style="margin-top: -15px; margin-bottom: 10px;"/>
+<div class="resume-section-header"><h4>awards/certifications/activities</h4></div>
+<hr class="resume-section-hr"/>
 - Best Presentation, Noble Energy Technology Conference, Noble Energy Inc., 2015
 - Geoscience campus recruiter, Noble Energy Inc., 2014 – 2019
 - Reviewer, Geophysics, Interpretation, & SEG Annual Conference abstracts, 2014 – present

@@ -28,3 +28,16 @@ button {
 	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 	grid-gap: 20px;
 }
+
+.resume-header {
+	text-align: center;
+}
+
+.resume-section-header {
+	text-align: right;
+}
+
+.resume-section-hr {
+	margin-top: -15px;
+	margin-bottom: 10px;
+}
