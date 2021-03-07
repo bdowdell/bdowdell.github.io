@@ -4,6 +4,7 @@ title: portfolio.
 permalink: /portfolio/
 ---
 
+<!--
 <div class="row">
 	<div class="column">
 		<div class="card">
@@ -34,5 +35,19 @@ permalink: /portfolio/
 	</div>
 	<div class="column">
 		<strong>PySeisTuned<sup>2.0</sup></strong> is a Flask web app that allows users to produce seismic tuning wedge forward models.
+	</div>
+</div>
+-->
+<div class="card">
+	<div class="bg-img">
+		<a href="https://sonicpredict.com" target="_blank">
+			<img src="{{site.url}}/assets/img/residual_plot.png">
+		</a>
+	</div>
+	<div class="content">
+		<h4>SonicPredict</h4>
+		<p>
+			SonicPredict is a Flask API that serves a fitted ML-model from which users can predict sonic well logs. The fitted model comes from my entry to the 2020 SPWLA PDDASIG Machine Learning Contest and consists of an ensemble of XGBoost, PCR regression, & KNN regression.
+		</p>
 	</div>
 </div>
