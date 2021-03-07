@@ -4,9 +4,9 @@ title: portfolio.
 permalink: /portfolio/
 ---
 
-<div>
+<div style="position: relative; text-align: center;">
 <a href="https://sonicpredict.com" target="_blank"><img src="{{site.url}}/assets/img/residual_plot.png" width="400" style="opacity: 0.5;"></a>
-<div style="position: relative; text-align: center;"><strong>SonicPredict</strong></div>
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"><strong>SonicPredict</strong></div>
 </div>
 
 # PySeisTuned<sup>2.0</sup>
