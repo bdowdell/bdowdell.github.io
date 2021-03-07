@@ -21,3 +21,9 @@ button {
 	cursor: pointer;
 	border-radius: .25rem;
 }
+
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 20px;
+}
