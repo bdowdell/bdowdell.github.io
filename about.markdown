@@ -12,17 +12,17 @@ I'm Ben and am a data scientist and software engineer. I believe in helping busi
 
 I have eight years of professional experience in the upstream oil and gas industry and hold both Master's and Bachelor's of Science degrees in Geophysics with minors in History and Business. My experience has made me very comfortable analyzing terabytes of structured and unstructured data, working in collaborative and multi-disciplinary teams focused on problem solving, and making multi-million dollar investment recommendations to upper levels of management.
 
-My guiding principles are:
-+ Simplicity over complexity. Only add complexity as needed.
-+ Unless accurate predictability is the goal, choose interpretability.
-+ Over-communicate. Check-in often and ask questions. The only bad question is the one left unasked.
-+ Collaborate and include. Science doesn't happen in a vacuum, nor does it benefit from a lack of diversity.
-+ Under-promise and over-deliver.
-+ Data is only as reliable as the manner in which it was collected.
-+ Foster an environment where intellectual curiosity thrives.
-+ First, make something that works. Then build it out.
-+ Test, test, test.
-+ Ask for feedback.
-+ Have fun, and do good.
+My guiding principles are:  
+:heavy_check_mark: Simplicity over complexity. Only add complexity as needed.  
+:heavy_check_mark: Unless accurate predictability is the goal, choose interpretability.  
+:heavy_check_mark: Over-communicate. Check-in often and ask questions. The only bad question is the one left unasked.  
+:heavy_check_mark: Collaborate and include. Science doesn't happen in a vacuum, nor does it benefit from a lack of diversity.  
+:heavy_check_mark: Under-promise and over-deliver.  
+:heavy_check_mark: Data is only as reliable as the manner in which it was collected.  
+:heavy_check_mark: Foster an environment where intellectual curiosity thrives.  
+:heavy_check_mark: First, make something that works. Then build it out.  
+:heavy_check_mark: Test, test, test.  
+:heavy_check_mark: Ask for feedback.  
+:heavy_check_mark: Have fun, and do good.  
 
 *What can we achieve together?*
