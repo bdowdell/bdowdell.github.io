@@ -99,8 +99,8 @@ Southern Methodist University, Dallas, TX, 2010
 - Python for Data Science & Machine Learning, Udemy, 2019
 - Introduction to Energy Data Science workshop in Python, Daytum, 2019
 - Introduction to Subsurface Machine Learning workshop, Daytum, 2019
-- Volunteer, TX Premier Soccer Club video & analytics (2020 – present)
+- Volunteer, TX Premier Soccer Club video & analytics, 2020 – present
 - Co-chair, Noble Energy Technology Conference, Noble Energy Inc., 2020
-- Statistical Learning, StanfordOnline STATSX0001, edX.org, in progress (2021)
+- Statistical Learning, StanfordOnline STATSX0001, edX.org, 2021 (*in progress*)
 <hr />
 <small>icons courtesy of <a href="https://icons8.com">icons8.com</a></small>
