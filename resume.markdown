@@ -61,7 +61,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 - 2021: Flask web app & API to serve model: [https://sonicpredict.com](https://sonicpredict.com)
 
 ##### **PySeisTuned seismic forward modeling Flask web app (2020)**
-- Seismic tuning wedge forward model using bokeh for interactive plotting
+- Enable users to calculate seismic tuning wedge forward models on the web
 - Developed to make previous PyQT5-based GUI application more accessible as a web app
 - Technology: Python, Flask, Bokeh, HTML, CSS, Bootstrap, JavaScript, PyCharm
 - Deployed at: [https://pyseistuned.com](https://pyseistuned.com)
