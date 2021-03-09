@@ -6,7 +6,7 @@
 
 .bg-img {
 	background-size: cover;
-	min-height: 180px;
+	height: 180px;
 	background-position: center;
 	background-color: #ccc;
 }
