@@ -8,7 +8,7 @@ permalink: /portfolio/
 	<div class="card">
 		<div class="bg-img">
 			<a href="https://sonicpredict.com" target="_blank">
-				<img src="{{site.url}}/assets/img/residual_plot_300x180.png">
+				<img src="{{site.url}}/assets/img/residual_plot_v2.png">
 			</a>
 		</div>
 		<div class="content">
