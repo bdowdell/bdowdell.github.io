@@ -11,6 +11,7 @@ permalink: /portfolio/
 				<img src="{{site.url}}/assets/img/residual_plot_v2.png">
 			</a>
 		</div>
+		<div class="card-separator"></div>
 		<div class="content">
 			<h4>SonicPredict</h4>
 			<p>
@@ -25,6 +26,7 @@ permalink: /portfolio/
 				<img src="{{site.url}}/assets/img/synthetic_wedge_model_extra.png">
 			</a>
 		</div>
+		<div class="card-separator"></div>
 		<div class="content">
 			<h4>PySeisTuned<sup>2.0</sup></h4>
 			<p>
@@ -36,6 +38,7 @@ permalink: /portfolio/
 	<div class="card">
 		<div class="bg-img">
 		</div>
+		<div class="card-separator"></div>
 		<div class="content">
 			<h4>Upcoming</h4>
 			<p>
@@ -47,6 +50,7 @@ permalink: /portfolio/
 	<div class="card">
 		<div class="bg-img">
 		</div>
+		<div class="card-separator"></div>
 		<div class="content">
 			<h4>Upcoming</h4>
 			<p>
