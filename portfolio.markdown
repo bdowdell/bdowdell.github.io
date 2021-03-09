@@ -23,7 +23,7 @@ permalink: /portfolio/
 	<div class="card">
 		<div class="bg-img">
 			<a href="https://pyseistuned.com" target="_blank">
-				<img src="{{site.url}}/assets/img/synthetic_wedge_model_extra.png">
+				<img src="{{site.url}}/assets/img/fpst2_synth_wedge_model.png">
 			</a>
 		</div>
 		<div class="card-separator"></div>
