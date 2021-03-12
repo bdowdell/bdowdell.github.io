@@ -82,15 +82,22 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 			<li>Communication</li>
 			<li>Generating business value</li>
 			<li>Intellectual curiosity & critial thinking</li>
+			<li>Creativity</li>
+			<li>Problem solving</li>
 			<li>Fast learner</li>
 			<li>Adaptability</li>
 			<li>Collaboration</li>
-			<li>Inclusion</li>
+			<li>Inclusion</li>>
 			<li>Leadership</li>
+			<li>Authenticity</li>
 			<li>Project Management</li>
 			<li>Time Management</li>
 			<li>Multi-tasking</li>
 			<li>Emotional Intelligence</li>
+			<li>Active listening</li>
+			<li>Delegation</li>
+			<li>Credibility</li>
+			<li>Mentoring</li>
 		</ul>
 	</div>
 </div>
