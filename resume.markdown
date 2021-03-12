@@ -23,7 +23,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 <hr class="resume-section-hr"/>
 <div class="row" style="display: flex;">
 	<div class="col" style="flex: 50%;">
-		<h4>tech</h4>
+		<h4><small>tech</small></h4>
 		<ul style="font-size: 12px;">
 			<li>Programming in Python & C++
 				<ul>
@@ -75,14 +75,22 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 		</ul>
 	</div>
 	<div class="col" style="flex: 50%;">
-		<h4>general</h4>
+		<h4><small>general</small></h4>
 		<ul style="font-size: 12px;">
-			<li>Research & Writing</li>
+			<li>Research</li>
+			<li>Writing</li>
+			<li>Communication</li>
 			<li>Generating business value</li>
 			<li>Intellectual curiosity & critial thinking</li>
-			<li>Fast learner, Adaptability</li>
-			<li>Collaboration & Inclusion</li>
-			<li>Leadership & project management</li>
+			<li>Fast learner</li>
+			<li>Adaptability</li>
+			<li>Collaboration</li>
+			<li>Inclusion</li>
+			<li>Leadership</li>
+			<li>Project Management</li>
+			<li>Time Management</li>
+			<li>Multi-tasking</li>
+			<li>Emotional Intelligence</li>
 		</ul>
 	</div>
 </div>
