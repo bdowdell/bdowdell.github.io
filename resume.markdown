@@ -24,7 +24,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 <div class="row" style="display: flex;">
 	<div class="col" style="flex: 50%;">
 		<h4>tech</h4>
-		<ul>
+		<ul style="font-size: 10px;">
 			<li>Programming in Python & C++
 				<ul>
 					<li>Git, GitHub, & version control</li>
@@ -56,10 +56,6 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 					<li>Computer Vision, OpenCV</li>
 				</ul>
 			</li>
-		</ul>
-	</div>
-	<div class="col" style="flex: 50%;">
-		<ul>
 			<li>Web App Development
 				<ul>
 					<li>Flask, HTML, CSS, Bootstrap, JavaScript</li>
@@ -77,8 +73,10 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 			<li>Creating, contributing to, & using Open Source Software (OSS)</li>
 			<li>SQL & relational databases</li>
 		</ul>
+	</div>
+	<div class="col" style="flex: 50%;">
 		<h4>general</h4>
-		<ul>
+		<ul style="font-size: 10px;">
 			<li>Research & Writing</li>
 			<li>Generating business value</li>
 			<li>Intellectual curiosity & critial thinking</li>
