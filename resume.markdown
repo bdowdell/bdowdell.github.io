@@ -21,8 +21,8 @@ permalink: /resume/
 My mission is to provide thoughtful data analytics, insights, and predictive models which when combined with trained intuition and expert knowledge results in both data-driven and data-informed decision making, adding business value. I build useful models and software which enable people to achieve these outcomes easier and more efficiently.
 <div class="resume-section-header"><h4>skills & tools</h4></div>
 <hr class="resume-section-hr"/>
-<div class="row">
-	<div class="col">
+<div class="row" style="display: flex;">
+	<div class="col" style="flex: 50%;">
 		<h5>tech</h5>
 		<ul>
 			<li>Programming in Python & C++
@@ -74,7 +74,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 			<li>SQL & relational databases</li>
 		</ul>
 	</div>
-	<div class="col">
+	<div class="col" style="flex: 50%;">
 		<h5>general</h5>
 		<ul>
 			<li>Research & Writing</li>
