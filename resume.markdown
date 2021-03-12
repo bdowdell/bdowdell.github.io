@@ -23,7 +23,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 <hr class="resume-section-hr"/>
 <div class="row" style="display: flex;">
 	<div class="col" style="flex: 50%;">
-		<h5>tech</h5>
+		<h4>tech</h4>
 		<ul>
 			<li>Programming in Python & C++
 				<ul>
@@ -56,6 +56,10 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 					<li>Computer Vision, OpenCV</li>
 				</ul>
 			</li>
+		</ul>
+	</div>
+	<div class="col" style="flex: 50%;">
+		<ul>
 			<li>Web App Development
 				<ul>
 					<li>Flask, HTML, CSS, Bootstrap, JavaScript</li>
@@ -73,9 +77,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 			<li>Creating, contributing to, & using Open Source Software (OSS)</li>
 			<li>SQL & relational databases</li>
 		</ul>
-	</div>
-	<div class="col" style="flex: 50%;">
-		<h5>general</h5>
+		<h4>general</h4>
 		<ul>
 			<li>Research & Writing</li>
 			<li>Generating business value</li>
