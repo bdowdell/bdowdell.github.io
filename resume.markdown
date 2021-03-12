@@ -24,7 +24,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 <div class="row" style="display: flex;">
 	<div class="col" style="flex: 50%;">
 		<h4>tech</h4>
-		<ul style="font-size: 10px;">
+		<ul style="font-size: 12px;">
 			<li>Programming in Python & C++
 				<ul>
 					<li>Git, GitHub, & version control</li>
@@ -76,7 +76,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 	</div>
 	<div class="col" style="flex: 50%;">
 		<h4>general</h4>
-		<ul style="font-size: 10px;">
+		<ul style="font-size: 12px;">
 			<li>Research & Writing</li>
 			<li>Generating business value</li>
 			<li>Intellectual curiosity & critial thinking</li>
