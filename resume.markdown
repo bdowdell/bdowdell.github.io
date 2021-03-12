@@ -21,65 +21,71 @@ permalink: /resume/
 My mission is to provide thoughtful data analytics, insights, and predictive models which when combined with trained intuition and expert knowledge results in both data-driven and data-informed decision making, adding business value. I build useful models and software which enable people to achieve these outcomes easier and more efficiently.
 <div class="resume-section-header"><h4>skills & tools</h4></div>
 <hr class="resume-section-hr"/>
-<h5>tech</h5>
-<ul>
-	<li>Programming in Python & C++
+<div class="row">
+	<div class="col">
+		<h5>tech</h5>
 		<ul>
-			<li>Git, GitHub, & version control</li>
-			<li>Anaconda, Conda, & Pipenv</li>
-			<li>JupyterLab & Jupyter Notebooks</li>
-			<li>VSCode, PyCharm, Spyder</li>
-			<li>Rapid Prototyping</li>
-			<li>Unit testing & coverage</li>
-			<li>Object Oriented Programming (OOP)</li>
+			<li>Programming in Python & C++
+				<ul>
+					<li>Git, GitHub, & version control</li>
+					<li>Anaconda, Conda, & Pipenv</li>
+					<li>JupyterLab & Jupyter Notebooks</li>
+					<li>VSCode, PyCharm, Spyder</li>
+					<li>Rapid Prototyping</li>
+					<li>Unit testing & coverage</li>
+					<li>Object Oriented Programming (OOP)</li>
+				</ul>
+			</li>
+			<li>Mathematics & Statistical analysis
+				<ul>
+					<li>Statsmodels, R, RStudio</li>
+				</ul>
+			</li>
+			<li>Data analytics & data visualization
+				<ul>
+					<li>Pandas, Numpy, Matplotlib, Seaborn, Bokeh</li>
+					<li>Tableau</li>
+				</ul>
+			</li>
+			<li>Machine Learning & AI
+				<ul>
+					<li>Scikit-learn, TensorFlow, PyTorch</li>
+					<li>Supervised & Unsupervised learning</li>
+					<li>Regression, Classification, Clustering</li>
+					<li>Structured & Unstructured datasets</li>
+					<li>Computer Vision, OpenCV</li>
+				</ul>
+			</li>
+			<li>Web App Development
+				<ul>
+					<li>Flask, HTML, CSS, Bootstrap, JavaScript</li>
+					<li>Ruby, Jekyll, Bundler</li>
+					<li>DigitalOcean Droplets</li>
+					<li>GitHub Pages</li>
+				</ul>
+			</li>
+			<li>Linux / MacOS / Windows
+				<ul>
+					<li>Red Hat / Fedora / Debian / Ubuntu</li>
+					<li>Microsoft Office (Word, PowerPoint, Excel, Outlook, SharePoint, OneDrive)</li>
+				</ul>
+			</li>
+			<li>Creating, contributing to, & using Open Source Software (OSS)</li>
+			<li>SQL & relational databases</li>
 		</ul>
-	</li>
-	<li>Mathematics & Statistical analysis
+	</div>
+	<div class="col">
+		<h5>general</h5>
 		<ul>
-			<li>Statsmodels, R, RStudio</li>
+			<li>Research & Writing</li>
+			<li>Generating business value</li>
+			<li>Intellectual curiosity & critial thinking</li>
+			<li>Fast learner, Adaptability</li>
+			<li>Collaboration & Inclusion</li>
+			<li>Leadership & project management</li>
 		</ul>
-	</li>
-	<li>Data analytics & data visualization
-		<ul>
-			<li>Pandas, Numpy, Matplotlib, Seaborn, Bokeh</li>
-			<li>Tableau</li>
-		</ul>
-	</li>
-	<li>Machine Learning & AI
-		<ul>
-			<li>Scikit-learn, TensorFlow, PyTorch</li>
-			<li>Supervised & Unsupervised learning</li>
-			<li>Regression, Classification, Clustering</li>
-			<li>Structured & Unstructured datasets</li>
-			<li>Computer Vision, OpenCV</li>
-		</ul>
-	</li>
-	<li>Web App Development
-		<ul>
-			<li>Flask, HTML, CSS, Bootstrap, JavaScript</li>
-			<li>Ruby, Jekyll, Bundler</li>
-			<li>DigitalOcean Droplets</li>
-			<li>GitHub Pages</li>
-		</ul>
-	</li>
-	<li>Linux / MacOS / Windows
-		<ul>
-			<li>Red Hat / Fedora / Debian / Ubuntu</li>
-			<li>Microsoft Office (Word, PowerPoint, Excel, Outlook, SharePoint, OneDrive)</li>
-		</ul>
-	</li>
-	<li>Creating, contributing to, & using Open Source Software (OSS)</li>
-	<li>SQL & relational databases</li>
-</ul>
-<h5>general</h5>
-<ul>
-	<li>Research & Writing</li>
-	<li>Generating business value</li>
-	<li>Intellectual curiosity & critial thinking</li>
-	<li>Fast learner, Adaptability</li>
-	<li>Collaboration & Inclusion</li>
-	<li>Leadership & project management</li>
-</ul>
+	</div>
+</div>
 <div class="resume-section-header"><h4>projects</h4></div>
 <hr class="resume-section-hr"/>
 ##### **Predicting missing borehole sonic well logs (2020, 2021)**
