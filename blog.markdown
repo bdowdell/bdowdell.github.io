@@ -10,7 +10,12 @@ permalink: /blog/
 	{% for post in site.posts %}
 	  <li>
 	  	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	  	<div class="post-excerpt"><div class="content">{{ post.excerpt }}<br />...</div></div>
+	  	<div class="post-excerpt">
+	  		<div class="content">
+	  			{{ post.excerpt }}
+	  			...
+	  		</div>
+	  	</div>
 	  </li>
 	{% endfor %}
 </ul>
