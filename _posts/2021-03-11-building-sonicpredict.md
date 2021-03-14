@@ -24,7 +24,7 @@ Building from my previous PySeisTuned<sup>2.0</sup> Flask web app experience, I 
 + includes template HTML pages for each view
 + has basic unit tests
 
-Most of the simple examples for building a Flask API do not use Flask Blueprints and instead demonstrate a very basic single-file Flask app that contains all the code. However, the bare-bones template I created structures the app using Flask Blueprints and the Application Factory concept (more on that :point_down:). For the single-file Flask app case, when and where to load the model is pretty obvious :point_down:
+Most of the simple examples for building a Flask API do not use Flask Blueprints and instead demonstrate a very basic single-file Flask app that contains all the code. However, the bare-bones template I created structures the app using Flask Blueprints and the Application Factory concept (more on that in a bit). For the single-file Flask app case, when and where to load the model is pretty obvious :point_down:
 
 ```python
 from flask import Flask, request
