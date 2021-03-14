@@ -145,9 +145,5 @@ Thanks for reading! :wave:
 
 <hr />
 <small>
-	<ol>
-		<li>
-			I say that the model shouldn't be used in a meaningful way not because I think it does a poor job of predicting P- and S-Sonic curves, but because I don't know how reliable the predicted curves would be for tasks such as well ties, fluid substitution, and AVO forward modeling. Furthermore, this model is built from a single well in the North Sea basin, and using it to predict sonic curves for wells outside of this basin may produce unexpected and potentially erroneous results. I think for this model to be generalized to different basins, additional training features such as depth below mudline and lithology may be needed. While I am quite happy with the model's current performance, I think it is best to treat it as an academic tool until further development is undertaken.
-		</li>
-	</ol>
+	1. I say that the model shouldn't be used in a meaningful way not because I think it does a poor job of predicting P- and S-Sonic curves, but because I don't know how reliable the predicted curves would be for tasks such as well ties, fluid substitution, and AVO forward modeling. Furthermore, this model is built from a single well in the North Sea basin, and using it to predict sonic curves for wells outside of this basin may produce unexpected and potentially erroneous results. I think for this model to be generalized to different basins, additional training features such as depth below mudline and lithology may be needed. While I am quite happy with the model's current performance, I think it is best to treat it as an academic tool until further development is undertaken.
 </small>
