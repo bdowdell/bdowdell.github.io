@@ -3,7 +3,7 @@ layout: post
 title: "Building the SonicPredict API"
 ---
 
-[SonicPredict](https://sonicpredict.com) is a Flask API that serves a fitted ML-model from which users can predict sonic well logs. The project began in March 2020 when I participated in the Society of Petrophysicists & Well Log Analysts (SPWLA) Petrophysical Data-Driven Analysis (PDDA) Special Interest Group's first machine learning contest. The objective of the contest was to build a machine learning model that given a set of input well logs could predict P- and S-Sonic well logs. The contest scoring was based upon minizming root mean squared error (RMSE) between predicted and real P- and S-Sonic well logs from a blind well not previously seen by the model. I will write more about my experience participating in the contest and the model I created in a separate post, but for now I want to write about the actual SonicPredict API.
+[SonicPredict](https://sonicpredict.com) is a Flask API that serves a fitted ML-model from which users can predict sonic well logs. The project began in March 2020 when I participated in the Society of Petrophysicists & Well Log Analysts (SPWLA) Petrophysical Data-Driven Analysis (PDDA) Special Interest Group's first machine learning contest. The objective of the contest was to build a machine learning model that given a set of input well logs could predict P- and S-Sonic well logs. The contest scoring was based upon minimizing root mean squared error (RMSE) between predicted and real P- and S-Sonic well logs from a blind well not previously seen by the model. I will write more about my experience participating in the contest and the model I created in a separate post, but for now I want to write about the actual SonicPredict API.
 
 ### what, why, how, & where?
 
