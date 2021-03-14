@@ -13,7 +13,7 @@ permalink: /blog/
 	  	<div class="post-excerpt">
 	  		<div class="content">
 	  			{{ post.excerpt }}
-	  			...
+	  			:point_right: [read more ...]({{post.url}})
 	  		</div>
 	  	</div>
 	  </li>
