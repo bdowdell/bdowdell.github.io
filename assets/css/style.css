@@ -62,3 +62,11 @@ ul.no-bullets {
 	margin-top: -15px;
 	margin-bottom: 10px;
 }
+
+.site-title::before {
+	content: url("/assets/img/favicon-32x32.png");
+	display: inline-block;
+	position: relative;
+	width: 35px;
+	top: 5px;
+}

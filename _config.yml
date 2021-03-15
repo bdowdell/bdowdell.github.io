@@ -28,7 +28,6 @@ url: "https://www.bendowdell.com" # the base hostname & protocol for your site, 
 twitter_username: bendowdell87
 github_username:  bdowdell
 linkedin_username: ben-dowdell
-logo: https://www.bendowdell.com/assets/img/favicon-32x32.png
 
 # Build settings
 theme: minima
