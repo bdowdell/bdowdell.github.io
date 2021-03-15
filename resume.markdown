@@ -82,7 +82,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 			<li>Communication</li>
 			<li>Presenting</li>
 			<li>Generating business value</li>
-			<li>Intellectual curiosity & critial thinking</li>
+			<li>Intellectual curiosity & critical thinking</li>
 			<li>Creativity</li>
 			<li>Problem solving</li>
 			<li>Fast learner</li>
@@ -106,7 +106,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 <div class="resume-section-header"><h4>projects</h4></div>
 <hr class="resume-section-hr"/>
 ##### **Predicting missing borehole sonic well logs (2020, 2021)**
-- Machine learning competition hosted by the Society of Petrophysicists and Well Log Analysts (SPWLA) to foster novel workflows to predict crucial missing sonic borehole well logs using commonly available well log data
+- Machine learning competition hosted by the Society of Petrophysicists and Well Log Analysts (SPWLA) to foster novel work flows to predict crucial missing sonic borehole well logs using commonly available well log data
 - [https://github.com/bdowdell/Machine-Learning-Competition-2020](https://github.com/bdowdell/Machine-Learning-Competition-2020)
 - Technology: Python, Pandas, Numpy, Scikit-learn, XGBoost, Matplotlib, JupyterLab, VSCode
 - 2021: Flask web app & API to serve model: [https://sonicpredict.com](https://sonicpredict.com)
