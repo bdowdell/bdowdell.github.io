@@ -9,6 +9,7 @@
 	background-size: cover;
 	min-height: 180px;
 	max-height: 200px;
+	border-radius: .5rem;
 	background-position: center;
 	background-color: #ccc;
 }
