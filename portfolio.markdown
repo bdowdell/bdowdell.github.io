@@ -8,7 +8,7 @@ permalink: /portfolio/
 	<div class="card">
 		<div class="bg-img">
 			<a href="https://sonicpredict.com" target="_blank">
-				<img src="{{site.url}}/assets/img/residual_plot_360x200.png">
+				<img class="bg-img-fill" src="{{site.url}}/assets/img/residual_plot_360x200.png">
 			</a>
 		</div>
 		<div class="card-separator"></div>
@@ -25,7 +25,7 @@ permalink: /portfolio/
 	<div class="card">
 		<div class="bg-img">
 			<a href="https://pyseistuned.com" target="_blank">
-				<img src="{{site.url}}/assets/img/fpst2_home.png">
+				<img class="bg-img-fill" src="{{site.url}}/assets/img/fpst2_home.png">
 			</a>
 		</div>
 		<div class="card-separator"></div>
