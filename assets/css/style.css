@@ -1,6 +1,6 @@
 .card {
-	border: 1px solid #d3d3d3;
-	border-radius: .25rem;
+	border: 2px solid #d3d3d3;
+	border-radius: .5rem;
 	height: 400px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -57,8 +57,8 @@ ul.no-bullets {
 }
 
 .post-excerpt {
-	border: 1px solid #d3d3d3;
-	border-radius: .25rem;
+	border: 2px solid #d3d3d3;
+	border-radius: .5rem;
 	height: auto;
 	margin-top: -15px;
 	margin-bottom: 10px;
