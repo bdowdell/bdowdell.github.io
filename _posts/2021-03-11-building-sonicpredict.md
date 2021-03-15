@@ -111,7 +111,7 @@ Now, when the `app` module is imported by `project.py`, the pre-trained model is
 
 ```python
 #flask_project/app/api/api_routes.py
-from flask import request, jsonify
+from flask import request
 from . import api
 from app import model  # now the model is available for use by the API predict route
 import pandas as pd
