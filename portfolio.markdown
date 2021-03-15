@@ -30,7 +30,7 @@ permalink: /portfolio/
 		</div>
 		<div class="card-separator"></div>
 		<div class="content">
-			<h4>PySeisTuned<sup><small>2.0</small></sup></h4>
+			<h4>PySeisTuned</h4>
 			<p>
 				PySeisTuned<sup><small>2.0</small></sup> is a Flask web app that allows users to produce seismic tuning wedge forward models.
 			</p>
