@@ -9,13 +9,13 @@
 	background-size: cover;
 	min-height: 180px;
 	max-height: 200px;
-	border-radius: .5rem;
+	border-radius: .25rem;
 	background-position: center;
 	background-color: #ccc;
 }
 
-.bg-img-fill {
-	border-radius: .5rem;
+img {
+	border-radius: 5%;
 }
 
 .card-separator {
