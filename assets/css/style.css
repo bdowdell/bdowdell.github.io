@@ -6,6 +6,8 @@
 }
 
 .card::after {
+	content: "";
+	position: absolute;
 	border: 1px solid #000000;
 }
 
