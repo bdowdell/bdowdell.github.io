@@ -14,6 +14,10 @@
 	background-color: #ccc;
 }
 
+.bg-img-fill {
+	border-radius: .5rem;
+}
+
 .card-separator {
 	background-size: cover;
 	height: 5px;
