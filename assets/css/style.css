@@ -5,6 +5,10 @@
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.card::after {
+	border: 1px solid #000000;
+}
+
 .bg-img {
 	background-size: cover;
 	min-height: 180px;
