@@ -17,10 +17,10 @@ permalink: /portfolio/
 			<p>
 				SonicPredict is a Flask API that serves a fitted ML-model from which users can predict sonic well logs.
 			</p>
-			<button>
-				<a href="{{site.url}}{% link _posts/2021-03-11-building-sonicpredict.md %}">read more</a>
-			</button>
 		</div>
+		<button>
+			<a href="{{site.url}}{% link _posts/2021-03-11-building-sonicpredict.md %}">read more</a>
+		</button>
 	</div>
 	<div class="card">
 		<div class="bg-img">
