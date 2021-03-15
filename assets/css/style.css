@@ -61,6 +61,7 @@ ul.no-bullets {
 	height: auto;
 	margin-top: -15px;
 	margin-bottom: 10px;
+	box-shadow: 5px 5px 3px grey;
 }
 
 .site-title::before {
