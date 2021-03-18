@@ -143,15 +143,16 @@ University of Oklahoma, Norman, OK, 2013
 Southern Methodist University, Dallas, TX, 2010
 <div class="resume-section-header"><h4>awards/certifications/activities</h4></div>
 <hr class="resume-section-hr"/>
-- Best Presentation, Noble Energy Technology Conference, Noble Energy Inc., 2015
-- Geoscience campus recruiter, Noble Energy Inc., 2014 – 2019
-- Reviewer, Geophysics, Interpretation, & SEG Annual Conference abstracts, 2014 – present
-- Exceptional Contribution Award, Noble Energy Inc., 2017
+- Chevron Data Science Development Program, 2021 (*in progress*)
+- Statistical Learning, StanfordOnline STATSX0001, edX.org, 2021 (*in progress*)
+- Volunteer, TX Premier Soccer Club video & analytics, 2020 – present
+- Co-chair, Noble Energy Technology Conference, Noble Energy Inc., 2020
 - Python for Data Science & Machine Learning, Udemy, 2019
 - Introduction to Energy Data Science workshop in Python, Daytum, 2019
 - Introduction to Subsurface Machine Learning workshop, Daytum, 2019
-- Volunteer, TX Premier Soccer Club video & analytics, 2020 – present
-- Co-chair, Noble Energy Technology Conference, Noble Energy Inc., 2020
-- Statistical Learning, StanfordOnline STATSX0001, edX.org, 2021 (*in progress*)
+- Exceptional Contribution Award, Noble Energy Inc., 2017
+- Best Presentation, Noble Energy Technology Conference, Noble Energy Inc., 2015
+- Geoscience campus recruiter, Noble Energy Inc., 2014 – 2019
+- Reviewer, Geophysics, Interpretation, & SEG Annual Conference abstracts, 2014 – present
 <hr />
 <small>icons courtesy of <a href="https://icons8.com">icons8.com</a></small>
