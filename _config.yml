@@ -22,7 +22,7 @@ title: bendowdell.com
 email: ben.dowdell87@gmail.com
 author: Ben Dowdell
 description: >- # this means to ignore newlines until "baseurl:"
-  providing business value and insights with data analytics and software engineering.
+  providing business value and insights with data analytics, machine learning, and software engineering.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.bendowdell.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bendowdell87
