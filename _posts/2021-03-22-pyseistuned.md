@@ -17,7 +17,7 @@ Tuning wedges are a basic geophysical tool for understanding how layer thickness
 
 Here's what a wedge model looks like:
 
-![wedge model]({{site.url}}/assets/img/wedge_model_w_block_impedance.png)
+![wedge model]({{site.url}}/assets/img/wedge_model_w_blocky_impedance.png)
 
 The upper and lower layers have the same elastic properties, while the middle wedge layer is different. The overlay traces show the **Acoustic Impedance** of each layer and is a function of velocity and density. This wedge model is convolved with a wavelet to produce the synthetic tuning wedge:
 
