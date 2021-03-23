@@ -11,6 +11,8 @@ Once I was done building PySeisTuned<sup>2.0</sup>, I needed to find a way to de
 
 #### And now for something completely different :sunglasses:
 
+For more detailed description about tuning theory and wedge models, visit the [PySeisTuned<sup>2.0</sup> About](https://pyseistuned.com/about) page.
+
 Tuning wedges are a basic geophysical tool for understanding how layer thickness variations impact seismic amplitude. As a subsurface layer thins, the seismic reflections from the top and bottom interface of the layer begin to constructively interfere with one another. At a certain point, this constructive interference, and therefore reflection amplitude strength, reaches a maximum and is termed the *tuning thickness*. The tuning thickness is a very important concept in geophysics because it is the minimum thickness for which the top and bottom interfaces of a layer can be fully seismically resolved. Below the tuning thickness, amplitude strength rapidly decays and eventually the layer will become seismically invisible, meaning that it is too thin to generate a seismic reflection. In between tuning thickness and the point at which the layer is no longer resolvable, seismic will actually overestimate layer thickness.
 
 Here's what a wedge model looks like:
@@ -27,4 +29,4 @@ Finally, here is a tuning curve:
 
 ![tuning curve]({{site.url}}/assets/img/tuning_curve.png)
 
-The tuning curve is a plot of the amplitude when measured at the top of the wedge model.
+The tuning curve is a plot of the amplitude when measured at the top of the wedge model and is a graphical representation of how amplitude varies with layer thickness.
