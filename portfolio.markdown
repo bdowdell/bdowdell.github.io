@@ -34,7 +34,9 @@ permalink: /portfolio/
 			<p>
 				PySeisTuned is a Flask web app that allows users to produce seismic tuning wedge forward models.
 			</p>
-			<button>read more</button>
+			<button>
+				<a href="{{site.url}}{% link _posts/2021-03-22-pyseistuned.md %}">read more</a>
+			</button>
 		</div>
 	</div>
 	<div class="card">
