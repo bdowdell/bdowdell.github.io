@@ -40,9 +40,7 @@ time), and that was the first time I ever used a laptop. As I started using my
 new work ThinkPad, I became very impressed with it to the point that I began to
 investigate them as an alternative to replacing my aging MBP.
 
-When I pressed the *order* button on Lenovo's website, I immediately had
-questions as to whether I had just made a mistake in not puchasing an M1 MBP. I
-specified a ThinkPad P1 Gen 3 with a healthy build sheet:
+I specified a ThinkPad P1 Gen 3 with a healthy build sheet:
 
 * 10<sup>th</sup> generation Intel Core i7-10750H
 * 1 TB SSD internal drive
@@ -84,7 +82,7 @@ I placed my order on March 16<sup>th</sup> and the intial shipping estimate put
 it at my door in mid May! There is a world-wide shortage of laptop dispay glass
 and other components currently, as well as extra complications brought on by the
 ongoing COVID-19 pandemic. For being the first computer I've purchased in 9
-years, I was super anxious.
+years, I was super anxious and mid-May felt like a year away.
 
 Fortunately, I didn't have to wait quite so long. My ThinkPad was shipped from
 China on April 2<sup>nd</sup> and arrived at my doorstep on April
@@ -94,7 +92,7 @@ intial Windows 10 set up, which was very easy and relatively quick.
 
 In the time between ordering and receiving my ThinkPad, I had time to think
 about which Linux distribution I wanted to install alongside Windows 10. My MBP
-dual-boots Ubuntu 18.04 LTS, while my desktop runs SparkyLinux 5. I've tended to
+dual-boots Ubuntu 18.04 LTS, while my 10 year old desktop runs SparkyLinux 5. I've tended to
 stay within the Debian family, but I'm always curious to try something new.
 However, I knew I needed a distribution that would work well with the current
 Nvidia drivers for GPU computing. That requirement steered me towards Ubuntu,
@@ -105,7 +103,8 @@ Then, I came across System76's Pop! OS, which offers the stability and ease of u
 with special focus towards scientific and engineering computing. What
 specifically caught my eye is that Pop! offers support for Nvidia drivers at
 install. Obviously, Nvidia drivers can be installed even if they aren't natively
-supported, but I like when things *just work*.
+supported, but I like when things *just work* (which is arguably not *the way*
+in Linux).
 
 Beyond merely having Nvidia support, Pop! has different graphics mode: Integrated, Nvidia,
 Hybrid, and Compute. This is exciting because it means I can reserve all of
@@ -115,7 +114,7 @@ to power the display. Currently I've been running under Hybrid mode which
 prefers the integrated graphics unless the Nvidia GPU is specified, and it has
 worked well. The integrated mode turns off the Nvidia GPU which will result in
 maximum battery life, while the Compute mode keeps the Nvidia GPU on but keeps
-it purely reserved for computing (like with TensorFlow).
+it purely reserved for computing (like with TensorFlow and PyTorch).
 
 ## My impression so far
 
@@ -130,7 +129,8 @@ relatively dim and the keyboard backlighting off unless I need it.
 Although the ThinkPad P1 Gen 3 is a larger form-factor than my previous 2012
 MacBook Pro (15.6" versus 13"), it is a slimmer and lighter laptop than my old
 MBP. At just a little over 3 pounds in weight, it is portable and easy to carry
-around but also feels very sturdy.
+around but also feels very sturdy. Considering the horsepower, it's an
+impressive package.
 
 The keyboard is excellent. Lenovo knows how to make a great keyboard. A lot of
 people complain about the placement of the Fn & Ctrl keys on the bottom left,
