@@ -29,6 +29,8 @@ boot Linux. I like MacOS a lot, but there aren't any benefits to using it over
 Linux. If I needed to do serious photo, video, or audio editing using Photoshop, Final
 Cut Pro, or Logic Pro, I would definitely want to be using MacOS.
 
+![thinkpad_cover]({{site.url}}/assets/img/ThinkPad/thinkpad_cover.jpg)
+
 ## So why Lenovo? Why a ThinkPad?
 
 Around the same time that I started researching the new Apple M1 laptops, my
@@ -76,6 +78,9 @@ GPU, the reported battery life was a bit dismal. This is another reason I opted
 for the Core i7 over the Core i9 and the base FHD display over the 4K UHD.
 Realistically, I will likely not require the max power when I'm not on AC charge.
 
+![thinkpad cover
+closeup]({{site.url}}/assets/img/ThinkPad/thinkpad_cover_closeup.jpg)
+
 ## The waiting begins
 
 I placed my order on March 16<sup>th</sup> and the intial shipping estimate put
@@ -116,6 +121,8 @@ worked well. The integrated mode turns off the Nvidia GPU which will result in
 maximum battery life, while the Compute mode keeps the Nvidia GPU on but keeps
 it purely reserved for computing (like with TensorFlow and PyTorch).
 
+![thinkpad]({{site.url}}/assets/img/ThinkPad/thinkpad_open.jpb)
+
 ## My impression so far
 
 In short, I am really pleased with my new Lenovo ThinkPad. From an aesthetics
@@ -146,7 +153,10 @@ right mouse button enables scrolling with the TrackPoint. But what is really
 awesome is how easy it is to use the middle-mouse button to paste in a terminal
 after selecting text. I'm a TrackPoint convert, now!
 
+![trackpoint]({{site.url}}/assets/img/ThinkPad/thinkpad_open_trackpoint_focus.jpg)
+
 Using Pop! OS 20.04 LTS so far has also been a positive experience. I'll write a
 little more about it in a separate post, but all of the ThinkPad hardware works
 as expected, including the finger print reader. I really love it when things
 *just work*!
+
