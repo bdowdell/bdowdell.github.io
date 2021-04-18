@@ -66,7 +66,7 @@ My mission is to provide thoughtful data analytics, insights, and predictive mod
 			</li>
 			<li>Linux / MacOS / Windows
 				<ul>
-					<li>Red Hat / Fedora / Debian / Ubuntu</li>
+					<li>Ubuntu / Debian / Red Hat / Fedora</li>
 					<li>Microsoft Office (Word, PowerPoint, Excel, Outlook, SharePoint, OneDrive)</li>
 				</ul>
 			</li>
