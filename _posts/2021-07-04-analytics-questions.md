@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analytics: Asking the right questions"
-katex: False
+katex: True
 ---
 
 ## Types of Data Analytics Questions
@@ -37,7 +37,7 @@ A descriptive analytics question might ask "What was the average units sold per 
 
 **What:** Diagnostic analytics questions seek to answer whether relationships and patterns exist in the data and potentially describe why they exist. These types of questions are answered using statistical tests such as the Independent t-test, Pearson Correlation Coefficient, Chi-square test, and ANOVA, just to name a few. Put another way, diagnostic analytics test the hypotheses we make about associations beteween variables.
 
-A diagnostic analytics question might ask "Is there an association between salary and highest attained education level?" (ANOVA), "Is there an association between latitude and median annual precipitation?" (Correlation), or "Is there an association between being a witch and being made of wood?" (Chi-square). These questions are formed as a hypothesis which is then tested by the data. The hypothesis consistst of a null hypothesis, $h_0$, which states there is no association, and the alternate hypothesis, $h_a$, which states that there is an association. The null hypothesis is tested using an appropriate statistical test and the resulting p-value of the test statistic leads us to either reject the null hypothesis, or fail to do so. This process is called *statistical inference*.
+A diagnostic analytics question might ask "Is there an association between salary and highest attained education level?" (ANOVA), "Is there an association between latitude and median annual precipitation?" (Correlation), or "Is there an association between being a witch and being made of wood?" (Chi-square). These questions are formed as a hypothesis which is then tested by the data. The hypothesis consistst of a null hypothesis, $$h_0$$, which states there is no association, and the alternate hypothesis, $$h_a$$, which states that there is an association. The null hypothesis is tested using an appropriate statistical test and the resulting p-value of the test statistic leads us to either reject the null hypothesis, or fail to do so. This process is called *statistical inference*.
 
 Going a step further, *causal inference* attempts to assign causality based upon statistically significant association between variables. In practice, accounting for all confounding factors is truly difficult and true causality is challenging to establish.
 
@@ -78,6 +78,6 @@ We've now gone through a brief overview of the four major types of analytics que
 3. Predictive: *what will happen based upon what we already know?*
 4. Prescriptive: *how can we influence what might happen in our favor?*
 
-Recall that a data scientist's primary role is to take a business problem or challenge and frame it as an analytics question so that data can lead to insights and business value. It is entirely plausible that a business challng will have multiple analytics questions from multiple analytics question categories.
+Recall that a data scientist's primary role is to take a business problem or challenge and frame it as an analytics question so that data can lead to insights and business value. It is entirely plausible that a business challenge will have multiple analytics questions from multiple analytics question categories.
 
 *Framing the business problem as an analytics question(s) will guide and focus the analysis as data gets transformed into actionable insights and business value.*
