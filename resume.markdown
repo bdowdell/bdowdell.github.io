@@ -143,9 +143,8 @@ University of Oklahoma, Norman, OK, 2013
 Southern Methodist University, Dallas, TX, 2010
 <div class="resume-section-header"><h4>awards/certifications/activities</h4></div>
 <hr class="resume-section-hr"/>
-- Chevron Data Science Development Program, 2021 (*in progress*)
-- Statistical Learning, StanfordOnline STATSX0001, edX.org, 2021 (*in progress*)
-- Volunteer, TX Premier Soccer Club video & analytics, 2020 – present
+- Chevron Data Science Development Program, 2021
+- Volunteer, TX Premier Soccer Club video & analytics, 2019-2020
 - Co-chair, Noble Energy Technology Conference, Noble Energy Inc., 2020
 - Python for Data Science & Machine Learning, Udemy, 2019
 - Introduction to Energy Data Science workshop in Python, Daytum, 2019
