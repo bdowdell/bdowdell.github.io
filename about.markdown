@@ -22,7 +22,7 @@ Since then, I've gained experience with Python, C++, FORTRAN 90/95, HTML, CSS, a
 recent projects on my [portfolio]({{site.url}}/portfolio) page.
 
 My guiding principles are:  
-:heavy_check_mark: Simplicity over complexity. Only add complexity as needed. Chose interpretability whenever possible.
+:heavy_check_mark: Simplicity over complexity. Only add complexity as needed. Chose interpretability whenever possible.  
 :heavy_check_mark: Over-communicate. Check-in often and ask questions. The only bad question is the one left unasked.  
 :heavy_check_mark: Collaborate and include. Science thrives best with diversity of thought.  
 :heavy_check_mark: Under-promise and over-deliver.  
