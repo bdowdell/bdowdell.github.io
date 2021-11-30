@@ -17,7 +17,7 @@ I have eight years of professional experience as a geophysicist in the upstream 
 I also have 20 years of mostly self-taught programming experience going back to my middle school days when I started creating math programs on my TI-83+ graphing calculator. Since then, I've gained experience with Python, C++, FORTRAN 90/95, HTML, CSS, and JavaScript, with Python being my primary tool of choice. Checkout some of my recent projects on my [portfolio]({{site.url}}/portfolio) page.
 
 My guiding principles are:  
-:heavy_check_mark: Simplicity over complexity. Only add complexity as needed. Choose interpretability whenever possible.  
+:heavy_check_mark: Simplicity over complexity. Only add complexity as needed. Choose interpretability when possible.  
 :heavy_check_mark: Over-communicate. Check-in often and ask questions. The only bad question is the one left unasked.  
 :heavy_check_mark: Collaborate and include. Science thrives best with diversity of thought.  
 :heavy_check_mark: Under-promise and over-deliver.  
