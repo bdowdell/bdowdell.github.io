@@ -41,12 +41,15 @@ permalink: /portfolio/
 	</div>
 	<div class="card">
 		<div class="bg-img">
+			<a href="https://pypi.org/project/cuffnote" target="_blank">
+				<img src="{{site.url}}/assets/img/cuffnote_summary_plot.png">
+			</a>
 		</div>
 		<div class="card-separator"></div>
 		<div class="content">
-			<h4>Upcoming</h4>
+			<h4>cuffnote</h4>
 			<p>
-				Coming Soon!
+				Model common mortgage scenarios with Python!
 			</p>
 			<button>read more</button>
 		</div>
